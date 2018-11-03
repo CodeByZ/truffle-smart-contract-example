@@ -2,6 +2,8 @@
 
 A simple Truffle project demonstrating how to build, test and interact with a simple contract.
 
+This repo provides the code to this [blog post](http://codebyz.com/make-the-leap-from-webapps-to-dapps/).
+
 ## Installation
 
 * Clone this repo
